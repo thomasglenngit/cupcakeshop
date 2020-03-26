@@ -1,0 +1,23 @@
+h1 {
+  font-family: Helvetica;
+  font-size; 50px;
+  
+}
+
+p.feature {
+  width: 35%;
+}
+
+p.flashy {
+  color: red;
+  font-style: italic;
+}
+
+body {
+  background-image: url(https://assets.marthastewart.com/styles/wmax-1500/d30/magnolia-cupcake-290-mld110826/magnolia-cupcake-290-mld110826_horiz.jpg?itok=KlGb-itb);
+
+  Font-family: Verdana;
+  color: darkolivegreen;
+
+
+}
